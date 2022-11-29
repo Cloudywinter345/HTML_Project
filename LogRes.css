@@ -1,0 +1,24 @@
+* {
+    font-size: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+}
+body {
+    background-image: url(img/bg2.png);
+}
+.input {
+    border-radius: 10px;
+    border-width: 3px;
+}
+.button {
+    border-radius: 5px;
+    background-color: rgb(196, 137, 8);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-width: 2px;
+}
